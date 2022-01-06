@@ -4,6 +4,7 @@ import fileScrap from "./module.js";
 fileScrap(cf.proxy,
     cf.url,
     cf.prefix,
+    cf.suffix,
     cf.fileAmount,
     cf.fileType,
     cf.downloadFolder,
