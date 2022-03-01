@@ -1,5 +1,5 @@
 import cf from "./config.js";
-import fileScrap from "./module.js";
+import fileScrap from "./app.js";
 
 fileScrap(cf.proxy,
     cf.url,

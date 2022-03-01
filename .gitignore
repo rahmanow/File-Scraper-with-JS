@@ -1,2 +1,9 @@
 /node_modules/
 /downloads
+.DS_Store   # Mac
+Thumbs.db   # Windows
+.vscode/
+.vscode-test/
+.vscode-launch.json
+.vscode-tasks.json
+/.idea/
